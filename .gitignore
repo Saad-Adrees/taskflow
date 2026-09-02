@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+
+# Local database credentials
+api/config.php
+
+# XAMPP/local server files
+xampp/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
